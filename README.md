@@ -15,3 +15,13 @@ Data_Visualization:
         Adding grid
         Scatterplot
         countplot
+        Conversion of Count plot to stacked bar plot using pivot 
+    DAV - 3:
+        Scatterplot (CCN)
+        Pairplot
+        jointplot
+        correlation
+        heat map
+        cmap
+        treemap
+        
